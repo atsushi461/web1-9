@@ -1,12 +1,3 @@
-body{
-  background-image: url(../good.png), url(../good.png);
-  background-repeat: no-repeat, no-repeat;
-  background-color: lightgray;
-  margin: 5px;
-}
-
-
-
 @charset "utf-8";
 
 
@@ -17,7 +8,9 @@ body{
 }
 
 body{
-  background-color: lightgrey;
+  background-image: url(../good.png), url(../bg.jpg);
+  background-repeat: no-repeat, no-repeat;
+  background-color: lightgray;
   margin: 5px;
 }
 
