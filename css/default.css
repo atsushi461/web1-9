@@ -10,10 +10,10 @@
 body{
   background-image: url(../good.png), url(../bg.jpg);
   background-repeat: no-repeat, no-repeat;
+  background-size: 100px 100px, contain;
   background-color: lightgray;
   margin: 5px;
 }
-
 
 #text-shadow{
   padding: 0 40px;
