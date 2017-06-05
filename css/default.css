@@ -80,6 +80,7 @@ body{
 
 
 .box-sizing{
+  transform: skewX(30deg);
   width: 120px;
   padding: 10px;
   border:10px;
